@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="language">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:title="Khmer"
+                    android:id="@+id/khmer"
+                    android:checked="true"/>
+                <item android:title="English"
+                    android:id="@+id/english"/>
+            </group>
+        </menu>
+    </item>
+</menu>

@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">LocalStorage</string>
+    <string name="btn_preferences">SharedPreferences</string>
+    <string name="btn_interal_storage">Internal Storage</string>
+    <string name="btn_cache_storage">Cache Storage</string>
+    <string name="btn_external_storage">External Storage</string>
 </resources>

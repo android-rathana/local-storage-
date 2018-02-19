@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ការរក្សារឯកសារទុក Local</string>
+    <string name="btn_preferences">ការប្រើប្រាស់ SharedPreferences</string>
+    <string name="btn_interal_storage">ការប្រើប្រាស់ Internal Storage</string>
+    <string name="btn_cache_storage">ការប្រើប្រាស់​ Cache Storage</string>
+    <string name="btn_external_storage">ការប្រើប្រាស់ External Storage</string>
+</resources>

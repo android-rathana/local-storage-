@@ -11,25 +11,25 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/share_preference"
-        android:text="SharedPreferences"
+        android:text="@string/btn_preferences"
         android:onClick="onSharePreferences"/>
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/InternalStorage"
-        android:text="Internal Storage"
+        android:text="@string/btn_interal_storage"
         android:onClick="onInternalStorageClick"/>
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/CacheStorage"
-        android:text="Cache Storage"
+        android:text="@string/btn_cache_storage"
         android:onClick="onCacheStorageClick"/>
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/external_storage"
-        android:text="External Storage"
+        android:text="@string/btn_external_storage"
         android:onClick="onExternalStorageClick" />
 
 </LinearLayout>
